@@ -1,3 +1,7 @@
+_I am in the process of adapting Thesisdown to work with MSc. sytleguides the University of Northern British Columbia._
+_The goal -- write my thesis in this system_ 
+
+
 # thesisdown
 
 This project was inspired by the [bookdown](https://github.com/rstudio/bookdown) package and is an updated version of my Senior Thesis template in the `reedtemplates` package [here](https://github.com/ismayc/reedtemplates). It was originally designed to only work with the Reed College LaTeX template, but has since been adapted to work with many different institutions by many different individuals. Check out the **Customizing thesisdown to your institution** section below for examples.
